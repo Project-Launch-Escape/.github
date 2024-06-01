@@ -1,0 +1,2 @@
+# Project Launch Escape
+Project Launch Escape is a space flight simulation game heavily focused on gathering resources and designing, building, and maintaining orbital and ground stations. Progress all the way through to interstellar exploration by creating automated bases across various unique celestial bodies.
